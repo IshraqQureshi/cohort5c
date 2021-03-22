@@ -1,0 +1,13 @@
+WP QUIZ REQUIRMENT.
+
+
+1- Create an online quiz system using any wp plugin.
+2- Quiz System should have register and login System.
+3- Quiz system must have Home page. On home page user view login / attempt quiz button. (Only logged in users can attempt.)
+4- Contact Page with contact form / smtp.
+5- Quiz questions have associated marks which can be edited from backend.
+6- Only Logged in user can submit quiz and the quiz should be submitted by user only one time, When user wants to re-attempt system should show error.
+7- After submitting user marks showed to it.
+8: Also add some css make it better by using themes.
+
+Link = https://docs.google.com/forms/d/e/1FAIpQLScHXh3YxWc24UGvNoYVW5Pl9GetLSib0QoZH3rmXo98RzY8ig/viewform?usp=sf_link
